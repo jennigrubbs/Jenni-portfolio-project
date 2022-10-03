@@ -1,0 +1,112 @@
+/* This is the CSS file for my portfolio project. */
+body {
+  margin: 0;
+  font-family: Arial;
+  color: white;
+  font-size: 16px;
+  background-color: #000080
+}
+
+header {
+  height: 200px;
+  background-color: white;
+  font-family: Arial;
+  color: #000080;
+  font-size: 16px;
+}
+
+main {
+  font-family: Arial;
+  color: white;
+  font-size: 16px;
+}
+
+section {
+  font-family: Arial;
+  color: white;
+  font-size: 16px;
+  padding: 0 25%;
+  margin: 60px 0;
+}
+
+h1 {
+  font-family: "Dancing Script", cursive, sans-serif;
+  font-size: 72px;
+  color: #000080;
+  text-align: center; 
+}
+
+h2 {
+  font-family: Arial, sans-serif;
+  font-size: 40px;
+  color: #FF5733;
+  text-align: center;
+}
+
+h3 {
+  font-family: Arial, sans-serif;
+  font-size: 32px;
+  color: #FF5733;
+  text-align: center;
+}
+
+p {
+  font-family: Georgia;
+  font-size: 18px;
+  color: white;
+  text-align: left;
+}
+
+ul {
+  font-familiy: Arial, sans-serif;
+  font-size: 18px;
+  color: white;
+  text-align: left;
+}
+
+ol {
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  color: white;
+  text-align: left;
+}
+
+li {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: white;
+  text-align: left;
+}
+
+hr {
+  border: 2px, solid, white;
+}
+
+a {
+	font-weight: 750;
+	text-decoration: none;	
+}
+
+/* The following styles create styled links using pseudo-classes */
+
+a:link { color: white; }
+a:visited { color: gray; }
+a:hover { color: yellow; }
+a:active { color: green; }
+a:hover {
+	text-decoration: underline;	
+}
+
+footer {
+  font-family: Arial, sans-serif;
+  font-size: 28px;
+  color: white;
+  text-align: center;
+}
+  
+
+
+
+
+
+
