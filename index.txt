@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width" />
+  <title>Jenni Grubbs | Portfolio</title>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" rel="stylesheet"
+    type="text/css" />
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<header>
+
+  <h1>Jenni Grubbs</h1>
+
+  <h2>Portfolio as Software Designer</h2>
+
+</header>
+
+<body>
+
+  <main>
+
+    <section>
+
+      <!-- intro section needs to contain: Who you are, Where you are located -->
+
+      <img src="images/Jenni-portfolio-profile-picture-2.jpg" width="300" alt="Picture of Jenni Grubbs">
+
+      <h3>Hello! <br>I am Jenni Grubbs</h3>
+
+      <p>I am a software developer who lives in Northglenn in the Denver, Colorado area.</p>
+
+      <p>I'm a Colorado native who spent 20-plus years as a newspaper journalist and editor before going back to school
+        to take on a new career.</p>
+
+      <p>Over my career in journalism, I watched websites go from something "nice to have" to the way most people get
+        their news today. I knew websites and coding were where my future was headed, as well.</p>
+
+      <p>With my new coding skills, combined with my pre-existing editing and journalism-related knowledge base, I will
+        help my future employer and its clients create:</p>
+
+      <ul>
+        <li> Web designs that convey useful information through attractive design;</li>
+        <li> Code that delivers exactly what's promised and needed;</li>
+        <li> Opportunities for collaboration with fellow developers and growth for all involved.</li>
+      </ul>
+
+      <p>Feel free to poke around my website, and then reach out to me at <a href="mailto:jennigrubbsjrn@gmail.com"
+          target="_blank">jennigrubbsjrn@gmail.com</a> to find out more.
+
+    </section>
+
+    <!-- add rule between sections -->
+
+    <hr>
+
+    <!-- About section needs to contain: A description that shows your passion for web development and your willingness to work with others, plus one or two sentences that describe other interests you have outside of web development -->
+    <section>
+
+      <h3>About Jenni</h3>
+
+      <p>Writing has always been important to me, and now I'm learning a new way to write through coding. I am using
+        languages like JavaScript, HTML and CSS, with plenty more languages to learn as I go and the desire to soak it
+        all in.
+
+      <p>Websites have played a large role in more than half of my life, whether it was the website for the newspapers I
+        was working for, the website of an online magazine or blog that I copyedited, my social media sites, the online
+        store I was shopping, or the search engine being used to fact check something. Now I'm learning about how
+        websites are created, what makes them work (and break), how to fix them when they break, and what makes it all
+        function.</p>
+
+      <p>The Thinkful program is giving me an opportunity to reinvent myself and become an asset for my future employer.
+        I'm looking forward to whatever challenges are waiting for me as a software developer, as well as the chance to
+        collaborate with fellow developers on projects big and small.
+
+      <p>In my free time, I enjoy spending time with family, photography, reading thrillers and nonfiction, and writing
+        my own fictional works. I currently have a novel-in-progress, as well as ideas for plenty more writing projects
+        in the future, whether in English or a coding language.
+
+    </section>
+
+    <!-- add rule between sections -->
+
+    <hr>
+
+    <!-- Contact section needs to contain: A link to your LinkedIn profile, A link to your GitHub profile, A link to your email (optional) -->
+
+    <section>
+
+      <h3>Contact Jenni</h3>
+
+      <p>I'm very interested in hearing from you! Please follow me or contact me using the links below:</p>
+
+      <ol>
+        <li> <a href="https://www.linkedin.com/in/jenni-grubbs-017752252/" target="_blank">LinkedIn</a></li>
+        <li> <a href="https://github.com/jennigrubbs" target="_blank">GitHub</a></li>
+        <li> <a href="https://twitter.com/JenniGrubbs" target="_blank">Twitter</a></li>
+        <li> <a href="mailto:jennigrubbsjrn@gmail.com">Email Me</a></li>
+      </ol>
+
+      <!-- add map link to my location(s) -->
+
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d164900.4895802903!2d-104.97394673071142!3d39.827723677226345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1664783880007!5m2!1sen!2sus"
+        width="300" height="350" style="border:0;" allowfullscreen="" loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+    </section>
+
+  </main>
+
+  <footer>
+
+    <footer>&copy; Jenni Grubbs</footer>
+
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
